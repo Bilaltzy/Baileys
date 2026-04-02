@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# WhatsApp Baileys Edgar
+# WhatsApp Baileys BILAL
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -20,15 +20,15 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 <br/>
 
-[Installation](#getting-started) &nbsp;\u2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;\u2022&nbsp; [Features](#main-features) &nbsp;\u2022&nbsp; [Telegram](https://t.me/edgar)
+[Installation](#getting-started) &nbsp;\u2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;\u2022&nbsp; [Features](#main-features) &nbsp;\u2022&nbsp; [Telegram](https://t.me/Kryxoffice)
 
 </div>
 
 ---
 
-## What is Baileys Edgar?
+## What is Baileys BILAL?
 
-**WhatsApp Baileys Edgar** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons \u2014 all in a lightweight and modular package.
+**WhatsApp Baileys BILAL** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons \u2014 all in a lightweight and modular package.
 
 Actively maintained with continuous improvements to **pairing stability**, **session management**, and **WhatsApp multi-device compatibility**.
 
